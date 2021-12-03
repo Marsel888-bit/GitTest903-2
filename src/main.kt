@@ -7,4 +7,5 @@ fun main() {
     mc.doAction()
     val k = a()
     k.tt()
+    println("Марсель на связи")
 }
