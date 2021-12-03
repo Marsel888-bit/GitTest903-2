@@ -4,6 +4,8 @@ fun main() {
     println("Второе изменение (выполнено после операции Fork)")
     val mc = MyClass()
     //комментарий
+    println("qweqweqweqweqweewqeweqweqqweqw")
+
     mc.doAction()
     val k = a()
     k.tt()
